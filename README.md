@@ -3,9 +3,9 @@
 | No. |                   Project             |
 |:----:|:------------------------------------------:|
 |   01  | [BMI](https://github.com/tawananan/Javascript-in-20-days/tree/main/BMI)|
-|   02  | [Click to Copy]()|
-|   03  | [Clock Light & Dark Mode]()|
-|   04  | [Countries API]()|
+|   02  | [Click to Copy](https://github.com/tawananan/Javascript-in-20-days/tree/main/Click-to-Copy)|
+|   03  | [Clock Light & Dark Mode](https://github.com/tawananan/Javascript-in-20-days/tree/main/Clock-Light%26Dark-Mode)|
+|   04  | [Countries API](https://github.com/tawananan/Javascript-in-20-days/tree/main/Countries-API)|
 |   05  | [Hidden Search Widget]()|
 |   06  | [Image Gallery Popup]()|
 |   07  | [Increment Counter]()|
