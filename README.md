@@ -2,7 +2,7 @@
 
 | No. |                   Project             |
 |:----:|:------------------------------------------:|
-|   01  | [BMI]()|
+|   01  | [BMI](https://github.com/tawananan/Javascript-in-20-days/tree/main/BMI)|
 |   02  | [Click to Copy]()|
 |   03  | [Clock Light & Dark Mode]()|
 |   04  | [Countries API]()|
